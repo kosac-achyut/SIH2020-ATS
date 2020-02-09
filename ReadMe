@@ -1,0 +1,10 @@
+Problem Statement is given below:
+
+The Directorate of Higher Education has 7 Government Colleges and 26 aided colleges under it. Altogether, more than 10000 students that pass out from them every year either choose to opt for further studies, work or have their own startups. Currently, there is no mechanism for the colleges and the Directorate to keep a track of the students passing out. Hence, the problem is to develop a web based application for colleges and the Directorate to keep a track of the Alumni. The said application should have the following features:- (a) allow the Alumni members to register themselves (b) allow colleges to verify and authenticate their registered alumni (c) provision for alumni members to update their details (d) allow the colleges to search details based on criteria such as year, subject, etc. (e) allow the Directorate to search details based on criteria such as colleges, year, subject, etc. (f) send messages and emails to alumni members (g) group chats, create events, publish notices on the portal (h) Security features with login for every user.
+
+Problem Code: DR111
+Orgnization: Govt of Goa.
+Category: Software
+Domain Bucket: Software -Web App Development:
+
+
