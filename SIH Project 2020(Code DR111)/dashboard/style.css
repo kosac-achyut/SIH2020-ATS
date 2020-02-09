@@ -1,0 +1,14 @@
+body
+{
+	background: url();
+
+}
+
+.container
+{
+	border: none;
+	border-radius:10px;
+	background: rgba(149, 165, 166,0.7);
+	margin-bottom: 10px; 
+	padding-bottom: 10px;
+}

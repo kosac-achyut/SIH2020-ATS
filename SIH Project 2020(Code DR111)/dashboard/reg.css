@@ -1,0 +1,19 @@
+body
+{
+	background: url(images.jpg) no-repeat center center fixed;
+}
+
+.container
+{
+		margin-top:50px; 
+		border: none;
+		padding: 2%;
+		border-radius: 20px;
+		background-color: rgba(255,255,255,0.7);
+
+}
+
+.btn
+{
+	margin-left:40%; 
+}

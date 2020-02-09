@@ -1,0 +1,131 @@
+body
+{
+  background:url(images.jpg) no-repeat center center fixed; 
+  margin: 0;
+  padding: 0;
+}
+.nav-item
+{
+  font-size: 20px;
+}
+
+
+.container
+{
+  margin: 20px;
+  margin-left: 80px;
+  padding: 0%;
+  display: flex; 
+
+}
+
+
+
+.profile-bar
+{ margin-top: 20px;
+  height: 85vh;
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(255,255,255,0.7);
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.profile_img
+{
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  border-radius: 50px;
+}
+
+.profile-bar > a
+{
+  color: black;
+  font-size: 15px;
+
+}
+
+.info-bar
+{
+  margin-left: 30px;
+  margin-top: 20px;
+  min-height: 40vh;
+  min-width: 70vh;
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(255,255,255,0.7);
+  text-orientation: left;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+hr
+{
+  border: 1px solid black;
+}
+
+
+.edit-btn
+{
+  border-radius: 10%;
+  font-size: 12px;
+  padding: 5px 7px 5px 7px ;
+  position: relative;
+  transition:  0.5s ease-in;
+}
+
+.edit-btn:hover
+{
+  transform: scale(1.01);
+
+}
+.edit-btn:focus
+{
+  color: white;
+  background-color: green;
+  outline: none;
+}
+
+.info-content
+{
+  margin-left: 40px;
+}
+
+.Calender
+{
+  margin-top: 20px;
+  margin-left: 30px;
+  height: 85vh;
+  width: 400px;
+  border: none;
+  padding-top: 20px;
+  padding-left: 20px;
+  border-radius: 20px;
+  background-color: rgb(255,255,255,0.7);
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.input_box
+{
+  border: none;
+  border-radius: 10px;
+  width: 70%;
+  height: 30%;
+}
+
+.mess
+{
+  border:none;
+  border-radius:10px;
+  background-color: white;
+}
+
+.input_box:focus
+{
+  outline: none;
+}
+
+

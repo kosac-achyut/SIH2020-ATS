@@ -1,0 +1,14 @@
+
+body
+{
+	background:url(https://wallpaperaccess.com/full/2109.jpg) no-repeat center center fixed;
+	margin:0%;
+	padding: 0%; 
+}
+
+.container
+{
+	border:none;
+	border-radius: 10px;
+	background: rgba(127, 140, 141,0.9) 
+}
